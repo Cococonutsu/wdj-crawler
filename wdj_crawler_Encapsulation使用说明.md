@@ -56,7 +56,7 @@ if __name__ == '__main__':
 
   2.右击页面空白处，点击检查
 
-  * <img src="D:\python learning\假期自学计划\python算法\屏幕截图(2).png" style="zoom: 25%;" />
+  * <img src="https://github.com/Cococonutsu/wdj-crawler/blob/main/page/2.png" />
 
   
 
@@ -65,17 +65,16 @@ if __name__ == '__main__':
         2. 选择网络
         3. 并点击禁止标志清空该页面
 
-  * <img src="D:\python learning\假期自学计划\python算法\微信截图_20220827234531.png" style="zoom: 33%;" />
-
+  * <img src="https://github.com/Cococonutsu/wdj-crawler/blob/main/page/3.png" />
 
 
   4. 点击查看更多，右侧会刷新出新的文件包，双击右侧网络中以**more**开头得文件包
 
-	* ![](D:\python learning\假期自学计划\python算法\微信截图_20220827234531.png)  
+	* <img src="https://github.com/Cococonutsu/wdj-crawler/blob/main/page/4.png" />
 
   5. 双击该文件包后，为我们会看到这个页面，其中就有**catId** 和 **subcatId** 和 **ctoken**
 
-	* <img src="D:\python learning\假期自学计划\python算法\微信截图_20220827235140.png" style="zoom:150%;" />
+	* <img src="https://github.com/Cococonutsu/wdj-crawler/blob/main/page/5.png" />
 
   `ctoken`：
 
