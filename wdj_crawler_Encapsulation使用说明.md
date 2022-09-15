@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
   1.此处以爬取系统工具为例，**参数中的分类名称可以自定义**
 
-  * <img src="D:\python learning\假期自学计划\python算法\微信截图_20220827233656.png" style="zoom:38%;" />
+  * <img src="https://github.com/Cococonutsu/wdj-crawler/blob/main/page/1.png" />
 
   
 
